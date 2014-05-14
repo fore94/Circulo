@@ -14,7 +14,7 @@ public class areaCirculo
 	Scanner teclado= new Scanner(System.in);
 		
 	//Obtener datos
-	System.out.println("Introdudizca el radio:");
+	System.out.println("Introdudizca el radio    :");
 	radio = teclado.nextInt();
 	
 	//Calcular área
